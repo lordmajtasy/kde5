@@ -2,6 +2,6 @@
 
 
 
-!place use
+!please use
 area51: http://area51.pcbsd.org/
 
